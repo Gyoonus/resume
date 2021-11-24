@@ -9,7 +9,7 @@
 2020.2 ~ 현재
 #### Description
 > 개인 프로젝트로 안드로이드 애플리케이션을 난독화하는 도구 [deoptfuscator](https://github.com/Gyoonus/deoptfuscator)를 개발했습니다. ART의 최적화 기능을 활용하여 코드 난독화 탐지 및 역난독화 기술을 개발하였습니다.  
-> [Blackhat USA 2020](https://www.blackhat.com/us-20/arsenal/schedule/#deoptfuscator-automated-deobfuscation-of-android-bytecode-using-compilation-optimization-19958)
+> * [Blackhat USA 2020](https://www.blackhat.com/us-20/arsenal/schedule/#deoptfuscator-automated-deobfuscation-of-android-bytecode-using-compilation-optimization-19958)에서 도구를 발표할 수 있었습니다.
 #### What did I do.
 > * Linux 호스트 환경(Ubuntu) 안드로이드 ART 포팅
 > * ART 기반 난독화 탐지 모듈 개발
