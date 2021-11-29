@@ -50,7 +50,7 @@ System Engineer
 ### 2. TV 단말 가상화 프로젝트
 2019.9 ~ 2020.6
 #### Description
-> Linux 기반 단말 환경 가상화 기술도입, AOSP향 TV 서비스 포팅
+> Linux Container 기반 tv 단말 가상화 기술 개발, AOSP향 TV 서비스 포팅
 #### What did I do.
 > * 기가지니2 단말에 LXC 포팅
 > * host/container 입출력 제어
